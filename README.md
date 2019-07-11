@@ -1,5 +1,5 @@
 # uart_string
-#DMA
+# DMA
 ---
 ```
 in this project , we receive data from USART_Rx with DMA.
