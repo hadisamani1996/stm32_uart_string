@@ -1,2 +1,7 @@
 # uart_string
-in this project , i receive a string and next i sent it.
+#DMA
+---
+```
+in this project , we receive data from USART_Rx with DMA.
+when our array fill , next , it send array with USART_Tx on DMA
+```
